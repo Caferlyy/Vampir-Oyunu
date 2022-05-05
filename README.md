@@ -5,5 +5,9 @@
  
 - sm_vampir_can <değer> yazarak her birini öldürdüğünde kaç can alacağını yazabilirsiniz.
 
-< sourcemod/configs/vampir.cfg dosyasından düzenlemeleri yapabilirsiniz.
+> sourcemod/configs/vampir.cfg dosyasından düzenlemeleri yapabilirsiniz.
 
+
+https://hovn.com
+
+! Caferly !
